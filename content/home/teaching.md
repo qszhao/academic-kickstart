@@ -18,5 +18,5 @@ I have taught the following courses at the Arizona State University:
 
 Year|Course|
 ----|------| 
-2017|Optimization Fundamentals for Spatial Analysis ([GIS 461/561], Instructor)
+2017|Optimization Fundamentals for Spatial Analysis (GIS 461/GIS 561/PUP 481/PUP 581, Instructor)
 2013|Geographic Information Technologies (GPH 370, Teaching Assistant and Lab Lecturer)
