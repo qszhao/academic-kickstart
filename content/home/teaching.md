@@ -14,6 +14,12 @@ subtitle = ""
 weight = 60
 
 +++
+I have taught the following courses at the Arizona State University:
+
+Year|Course|
+----|------| 
+2017|Optimization Fundamentals for Spatial Analysis (GIS 461/561, Instructor)
+2013|Geographic Information Technologies (GPH 370, Teaching Assistant and Lab Lecturer)
 
 This is an example of using the *custom* widget to create your own homepage section.
 
