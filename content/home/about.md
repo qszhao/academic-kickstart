@@ -36,6 +36,6 @@ weight = 5
 
 # Biography
 
-Dr. Qunshan Zhao (赵群山) is a postdoctoral research associate at the School of Geographical Sciences and Urban Planning, Arizona State University, USA.
+Dr. Qunshan Zhao (赵群山) is a Postdoctoral Research Associate at the School of Geographical Sciences and Urban Planning, Arizona State University, USA.
 
 His research focuses on understanding human-environment interactions by using quantitative methods including GIScience (geographical information systems, remote sensing, and spatial analysis) and urban climatology. He is interested in using spatial data science to understanding sustainable urban systems.
