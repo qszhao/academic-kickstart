@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-76239520-2"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -51,12 +51,12 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Qunshan Zhao"
+  name = "Dr. Qunshan Zhao"
   role = "Postdoctoral Research Associate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Arizona State University", url = "" } ]
+  organizations = [ { name = "Arizona State University", url = "https://sgsup.asu.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
@@ -64,9 +64,9 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "qszhao@asu.edu"
   address = "975 S Myrtle Ave, Arizona State University, Tempe, 85281, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  office_hours = "Email for appointment"
+  phone = "+1-480-865-7533"
+  skype = "qszhao24"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -89,10 +89,10 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 2
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "33.4196"
+  longitude = "-111.9376"
   zoom = 15
 
   # SITE SETUP
