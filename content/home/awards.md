@@ -29,7 +29,7 @@ Year|Awards and Travel Grants
 2014|**John F. Lounsbury Student Travel Scholarship**, School of Geographical Sciences and Urban Planning, Arizona State University 
 2013-14|**University Graduate Fellowship**, Arizona State University
 2013|**Geographical Sciences TA award**, School of Geographical Sciences and Urban Planning, Arizona State University 
-2010-12|**Fellowship for Academic Excellence**, Wuhan University
+2010---12|**Fellowship for Academic Excellence**, Wuhan University
 2011|**First Prize in Social Science Research**, Youth Research Center, Wuhan University
-2010-11|**Trimble Scholarship**, Wuhan University
+2010---11|**Trimble Scholarship**, Wuhan University
 2010-11|**Outstanding Students**, Wuhan University
