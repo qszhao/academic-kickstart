@@ -21,7 +21,7 @@ Year|Awards and Travel Grants
 2018|**J. Warren Nystrom Award**, [American Association of Geographers (AAG)](http://www.aag.org/cs/nystrom)
 2017|**University Graduate Fellowship**, Arizona State University
 2017|**Graduate Excellence Awards**, College of Liberal Arts and Sciences, Arizona State University 
-2017|**Graduate College Preparing Future Faculty Travel Award**, Arizona State University 
+2017|**Preparing Future Faculty Travel Award**, Graduate College, Arizona State University 
 2016|**Finalist of Landscape Specialty Group Student Presentation Competition**, American Association of Geographers
 2015-17|**Graduate College Travel Award**, Arizona State University
 2015|**Conference Travel Grants**, Central Arizona-Phoenix Long-Term Ecological Research, Arizona State University
