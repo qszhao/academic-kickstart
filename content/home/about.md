@@ -13,7 +13,7 @@ weight = 5
     "GIScience",
     "Remote Sensing",
     "Spatial Analysis",
-    "Urban Analytics"
+    "Urban Analytics",
     "Urban Microclimate"
   ]
 
