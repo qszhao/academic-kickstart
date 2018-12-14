@@ -23,8 +23,8 @@ Year|Awards and Travel Grants
 2017|**Graduate Excellence Awards**, College of Liberal Arts and Sciences, Arizona State University 
 2017|**Preparing Future Faculty Travel Award**, Graduate College, Arizona State University 
 2016|**Finalist of Landscape Specialty Group Student Presentation Competition**, American Association of Geographers
-2015-17|**Graduate College Travel Award**, Arizona State University
-2015|**Conference Travel Grants**, Central Arizona-Phoenix Long-Term Ecological Research, Arizona State University
+2015-17|**Travel Award**, Graduate College, Arizona State University
+2015|**Conference Travel Award**, Central Arizona-Phoenix Long-Term Ecological Research, Arizona State University
 2015|**Individual Travel Award**, Graduate and Professional Student Association, Arizona State University 
 2014|**John F. Lounsbury Student Travel Scholarship**, School of Geographical Sciences and Urban Planning, Arizona State University 
 2013-14|**University Graduate Fellowship**, Arizona State University
