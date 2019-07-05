@@ -52,20 +52,20 @@ enableGitInfo = false
 
   # Your details.
   name = "Dr. Qunshan Zhao"
-  role = "Postdoctoral Research Associate"
+  role = "Lecturer in Urban Analytics"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Arizona State University", url = "https://sgsup.asu.edu/" } ]
+  organizations = [ { name = "University of Glasgow", url = "https://www.gla.ac.uk/schools/socialpolitical/staff/qunshanzhao/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "qszhao@asu.edu"
-  address = "975 S Myrtle Ave, Arizona State University, Tempe, 85281, USA"
+  email = "Qunshan.Zhao@glasgow.ac.uk"
+  address = "Urban Big Data Centre, University of Glasgow, 7 Lilybank Gardens, Glasgow, G12 8RZ, United Kingdom"
   office_hours = "Email for appointment"
-  phone = "+1-480-865-7533"
+  phone = "+44 (0)1413308534"
   skype = "qszhao24"
   telegram = ""
   keybase = ""  # Your keybase.io username.
@@ -91,8 +91,8 @@ enableGitInfo = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "33.4196"
-  longitude = "-111.9376"
+  latitude = "55.874737"
+  longitude = "-4.291582"
   zoom = 15
 
   # SITE SETUP
